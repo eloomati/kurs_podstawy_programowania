@@ -25,7 +25,7 @@ print(res)
 print(res[1][1])
 print(res[2][2])
 print(res[1][0])
-print(res[3]) # Bład przekroczenia zakresu listy
+#print(res[3]) # Bład przekroczenia zakresu listy
 
 print('klucz' not in lst1, 'klucz' in lst2)
 

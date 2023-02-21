@@ -3,6 +3,7 @@
 numbers = [3, 4, 5, 9, 11, 97, 0, -123]
 #To sortowanie jest nietrwale, poniewaz tworzona jest nowa lista w locie
 print(sorted(numbers))
+print(numbers)
 print(sorted(numbers, reverse=True)) #nie sortuje orginalnej listy, jedynie tworzy nowa i ja sortuje
 print(numbers)
 

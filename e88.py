@@ -10,5 +10,5 @@ def chars(num, *letters):
 
 chars('a')
 chars(5, 'a')
-chars('a', "e", "c", "word", [1, 2, 3, 4])
+chars(2, 'a', "e", "c", "word", [1, 2, 3, 4])
 chars(9, 'a', "e", "c", "word", [1, 2, 3, 4])
